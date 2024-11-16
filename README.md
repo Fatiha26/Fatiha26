@@ -1,8 +1,8 @@
 <h1 align="center">Hey, I'm Lamia Fatiha</h1>
-<h3 align="center">Student of CSE at PSTU, Bangladeshr</h3>
+<h3 align="center">Passionate Front End Developer</h3>
 <div align="center">
   <a href="CV.pdf" download>
-    <strong style="display: inline-block; padding: 10px 20px; background-color: #007BFF; color: white; text-decoration: none; border-radius: 5px;">➡️My Resume</strong>
+    ➡️My Resume
   </a>
 </div>
 
