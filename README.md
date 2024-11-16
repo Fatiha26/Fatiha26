@@ -1,6 +1,13 @@
 <h1 align="center">Hey, I'm Lamia Fatiha</h1>
 <h3 align="center">Student of CSE at PSTU, Bangladeshr</h3>
-<a href="CV.pdf" align="center">My CV</a>
+<div align="center">
+  <a href="CV.pdf" download>
+    <strong style="display: inline-block; padding: 10px 20px; background-color: #007BFF; color: white; text-decoration: none; border-radius: 5px;">➡️My Resume</strong>
+  </a>
+</div>
+
+
+
 
 <img align="right" alt="Coding" width="400" src="typing.gif" />
 <h3 align="left">About me:</h3>
